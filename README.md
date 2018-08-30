@@ -1,0 +1,2 @@
+# GeneratePic_YearHappyCo
+使用OpenCV按用户设置在固定位置绘制产品价格信息并生成价格图片
